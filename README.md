@@ -1,2 +1,2 @@
 # mcq-plugin
-This is a mcq plugin for wordpress
+This is a mcq plugin first branch for wordpress
